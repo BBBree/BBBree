@@ -2,7 +2,7 @@
 - ⚡ I believe in making the biggest positive impact on humanity by ethically developing innovative and transformative technology.
 
 - ✨ I am very fresh in the world of Computer Science, and I am new to online services and source code databases in general. 
-- 🌱 I’m currently learning foundations of Computer Information Systems, C++, Web Development, Python, GitHub, AWS, and generative AI.
+- 🌱 I’m currently learning foundations of Computer Information Systems, C++, Python, GitHub, AWS, AI, and Systems Analysis.
 - 💞️ I’m looking to collaborate with and learn from experienced and new professionals/students and to broaden my skillset, opening career development opportunities with big tech and areas where I can make the biggest impact.
 - 📫 How to reach me: bpersinger.tech@gmail.com
 
